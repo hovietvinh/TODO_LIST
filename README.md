@@ -15,5 +15,7 @@ EMAIL_PASS = kzvx jaxr gpit oynn
 - Mở terminal của folder TodoList_App_BE , chạy câu lệnh : **npm i**(Nếu ở lần chạy đầu tiên) sau đó chạy **npm start**
 
 ### Bước 2
+- Vào folder todolist_fe
+- Mở terminal , chạy câu lệnh : **npm i**(Nếu ở lần chạy đầu tiên) sau đó chạy **npm start**
 
 
